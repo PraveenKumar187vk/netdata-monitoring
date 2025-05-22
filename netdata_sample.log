@@ -1,0 +1,5 @@
+2025-05-22 10:15:00: netdata started.
+2025-05-22 10:15:02: collecting CPU metrics.
+2025-05-22 10:15:03: collecting disk I/O metrics.
+2025-05-22 10:15:04: health checks running.
+2025-05-22 10:15:10: alarm triggered: high_cpu_usage.
